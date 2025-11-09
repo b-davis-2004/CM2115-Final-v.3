@@ -9,11 +9,13 @@ namespace final.v1
         public override string Name => "Mountain Pass";
         public override string Description => "This is Area 3.";
 
+        /*
         public Area3()
         {
             Conflict = new PuzzleConflict(new Puzzle1());
         }
-    }
+        */
+    }   
 
 
 
