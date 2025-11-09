@@ -2,7 +2,7 @@ namespace final.v1
 {
     public class Area2 : AreaBase
     {
-        public override string Name => "Area 2";
+        public override string Name => "Bandit Camp";
         public override string Description => "This is Area 2.";
 
         public Area2()
